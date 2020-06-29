@@ -1,1 +1,14 @@
 .Rproj.user
+.Rhistory
+src/*.o
+src/*.cc
+src/*.cpp
+src/*.h
+src/*.hpp
+src/*.so
+src/*.dll
+vignettes/*.html
+.DS_Store
+data-raw/tiltURLs.R
+R/sysdata.rda
+R/data/*.rda
